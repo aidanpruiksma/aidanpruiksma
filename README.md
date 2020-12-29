@@ -1,13 +1,16 @@
 ![Aspiring Product Manager](https://github.com/aidanpruiksma/aidanpruiksma/blob/main/Portfolio%20Banner%20Github.png?raw=true)
 
 ### Hi there 👋, I'm Aidan Pruiksma
-I'm from Virginia Beach, and I have a deep passion for ideating and building a product that can enhance the user's experience as a whole.  My work experience has helped lay the foundation for my expertise in leadership, customer service, team collaboration, diversity awareness, and communication.  My tenure at Penn State University allowed me to apply these soft skills in addition to the techncical skills I have learned.  My anticipated graduation date is at the end of Summer 2021.
+I'm from Virginia Beach, and I have a deep passion for ideating and building a product that can enhance the user's experience as a whole.  My work experience has helped lay the foundation for my expertise in leadership, customer service, team collaboration, diversity awareness, and communication.  My tenure at Penn State University allowed me to apply these soft skills in addition to the techncical skills that I have learned.  My anticipated graduation date is at the end of Summer 2021.
 
-## Skills & Experiences
+## Skills 
 - 💻JAVA 
 - 📋MS PROJECT, MS OFFICE 
 - 📊SQL 
 - 📱ADOBE XD 
+
+## Group Projects 
+
 
 ## More About Me
 - 🔎 I'm interested in Product Management, Augmented Reality, UX/UI, Sports & Health related technology 
